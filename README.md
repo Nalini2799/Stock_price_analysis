@@ -9,7 +9,4 @@
 <img src="https://user-images.githubusercontent.com/65914205/117029537-63ccfc80-ad1c-11eb-8812-00fb117985ea.png">
 <img src="https://user-images.githubusercontent.com/65914205/117029720-9119aa80-ad1c-11eb-8e92-b47e6997774b.png">
 <img src="https://user-images.githubusercontent.com/65914205/117030043-d9d16380-ad1c-11eb-92f0-717bd473d552.png">
-
-
-
 Have used Monte Carlo stimulation to show the uncertainity in prediction. To estimate the trend of unpredicted future outcome.
